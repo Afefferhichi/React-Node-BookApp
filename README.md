@@ -12,6 +12,12 @@ Frontend tasks and features
 Adding feature components
 Connecting the frontend and backend
 
-# To run this projects:
-npm install
-npm start
+## Available Scripts
+
+In the project directory, you can run:
+### `yarn install`
+### `yarn start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
